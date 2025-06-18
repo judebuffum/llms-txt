@@ -1,0 +1,67 @@
+# The Pixel Artist – Jude Buffum
+
+> Jude Buffum is a Philadelphia-based illustrator and designer specializing in pixel art, 8-bit animation, and conceptual visual storytelling. His work spans editorial, advertising, packaging, and games—created for brands like Target, Lucasfilm, Marvel, and ESPN. This site showcases 20+ years of professional experience through project writeups, illustrations, and articles offering pixel art advice and insight.
+
+## 🔗 Core Site Structure
+
+- https://www.the-pixel-artist.com/
+- https://www.the-pixel-artist.com/projects/
+- https://www.the-pixel-artist.com/collections/
+- https://www.the-pixel-artist.com/articles/
+- https://www.the-pixel-artist.com/about/
+- https://www.the-pixel-artist.com/newsletter/
+
+## ✨ Notable Projects
+
+- https://www.the-pixel-artist.com/projects/star-wars-skeleton-crew-pixel-art-animation  
+  *8-bit animated character sprites for Lucasfilm and Disney+*
+  
+- https://www.the-pixel-artist.com/projects/marvel-legends-x-men-sentinels  
+  *Retro pixel packaging for Hasbro’s X-Men collectible figures*
+
+- https://www.the-pixel-artist.com/projects/bo-knows-1988-pixel-art-animation-for-espn  
+  *Pixel timeline of Bo Jackson’s historic two-sport year for ESPN*
+
+- https://www.the-pixel-artist.com/projects/audrey-tang-pixel-art-portrait-rsa-journal  
+  *Animated cover portrait of Taiwan’s Digital Minister for RSA Journal*
+
+- https://www.the-pixel-artist.com/projects/target-pixel-art-gift-cards  
+  *Two 8-bit gift card designs: 'Happy Bday' and 'Level Up Grad'*
+
+## 🧠 Articles & Resources
+
+- https://www.the-pixel-artist.com/articles/top-ten-things-new-pixel-artists-should-know  
+  *Tips for getting started with pixel art: outlines, colors, jaggies, and more*
+
+- https://www.the-pixel-artist.com/articles/how-to-keep-your-pixel-art-crisp-in-photoshop  
+  *Practical Photoshop advice for clean, scalable pixel art*
+
+## 🖼 Portfolio Collections
+
+- https://www.the-pixel-artist.com/collections/pixel-art-animation  
+  *Looping character animations and editorial GIFs in pixel style*
+
+- https://www.the-pixel-artist.com/collections/8-bit-typography  
+  *Custom pixel lettering and 8-bit logotypes*
+
+- https://www.the-pixel-artist.com/collections/pixel-art-portraits  
+  *Portraits of public figures, celebrities, and characters*
+
+- https://www.the-pixel-artist.com/collections/8-bit-tv-and-film  
+  *Pixel reinterpretations of characters and scenes from popular shows*
+
+- https://www.the-pixel-artist.com/collections/conceptual-pixel-art-illustration-by-illustrator-jude-buffum  
+  *Idea-driven editorial illustrations in pixel format*
+
+- https://www.the-pixel-artist.com/collections/8-bit-video-game-art  
+  *Original games, visual development, and retro-inspired commissions*
+
+- https://www.the-pixel-artist.com/collections/mindful-monsters  
+  *A collection of yoga-practicing pixel monsters*
+
+- https://www.the-pixel-artist.com/collections/8-bit-cocktails  
+  *Playful illustrations of classic cocktails in 8-bit form*
+
+## 🧩 Schema & SEO
+
+- Site supports [VisualArtwork](https://schema.org/VisualArtwork), [BlogPosting](https://schema.org/BlogPosting), and other structured data types to support discoverability by AI and search engines.
